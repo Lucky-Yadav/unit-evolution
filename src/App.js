@@ -1,10 +1,10 @@
 import "./App.css";
-import Navbar from "./src/components/Navbar";
+import Navbar from "./components/Navbar";
 import { Route, Routes } from "react-router-dom";
-import Login from "./src/components/Login";
-import Home from "./src/components/Home";
-import Private from "./src/components/Private";
-import Cart from "./src/components/Cart";
+import Login from "./components/Login";
+import Home from "./components/Home";
+import Private from "./components/Private";
+import Cart from "./components/Cart";
 
 function App() {
   return (
